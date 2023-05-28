@@ -5,7 +5,7 @@
   <b>Pinball Game in Logisim.</b>
 </p>
 <p align="center">
-  <a href="https://github.com/koekeishiya/yabai/blob/master/LICENSE.txt">
+  <a href="https://github.com/Ensell84/Digital-Platforms-Project/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/Ensell84/Digital-Platforms-Project" alt="License Badge">
   </a>
   <a href="https://github.com/Ensell84/Digital-Platforms-Project/blob/main/Documentation.pdf">
