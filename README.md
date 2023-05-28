@@ -73,6 +73,8 @@ Enjoy playing the Pinball Game in Logisim! If you have any questions or encounte
 
 ## Authors:
 
-- [Bondar Egor](https://github.com/Ensell84)
-- [Fesenko Roman](https://github.com/RomchikkF)
-- [Barsukova Daria](https://github.com/daria-barsukova)
+[:smiley: Bondar Egor](https://github.com/Ensell84)
+<br>
+[:smiley: Fesenko Roman](https://github.com/RomchikkF)
+<br>
+[:smiley: Barsukova Daria](https://github.com/daria-barsukova)
