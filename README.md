@@ -26,8 +26,6 @@ This project was done during Computer Platform course in Novosibirsk State Unive
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## Table of Contents
   - [Overview](#overview)
