@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Ensell84/Digital-Platforms-Project/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Ensell84/Digital-Platforms-Project" alt="License Badge">
+    <img src="https://img.shields.io/github/license/Ensell84/Digital-Platforms-Project?label=license" alt="License Badge">
   </a>
   <a href="https://github.com/Ensell84/Digital-Platforms-Project/blob/main/Documentation.pdf">
     <img src="https://img.shields.io/badge/view-documentation-green.svg" alt="Documentation Badge">
